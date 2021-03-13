@@ -1,8 +1,9 @@
-import { createStore } from "vuex";
+import { createStore } from 'vuex';
+import TodoModule from './todos/index';
 
 const store = createStore({
-  state: {
-    name: "Hello Vue3",
+  modules: {
+    TodoModule,
   },
 });
 
