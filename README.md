@@ -1,6 +1,5 @@
-# Vuejs-Vuex-Boilerplate
 
-# vuejs-vuex-biolerplate
+# Vue3-vuex-biolerplate
 
 ## Project setup
 
